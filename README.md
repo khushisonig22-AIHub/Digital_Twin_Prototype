@@ -2,7 +2,7 @@
 
 ## Team Details
 - **Team name:** [TEAM_Vitals]
-- **Team leader:** [Khushi Soni], [khushisonig22@gmail.com], [PHONE]
+- **Team leader:** [Khushi Soni], [khushisonig22@gmail.com],
 - **Members:** [Individual
 - **College / Incubator:** [IIT Patna]
 
