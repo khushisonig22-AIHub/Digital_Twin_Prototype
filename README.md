@@ -1,7 +1,7 @@
 # Digital Twin Proof-of-Concept – Happiest Health Challenge 2026
 
 ## Team Details
-- **Team name:** [TEAm_Vitals]
+- **Team name:** [TEAM_Vitals]
 - **Team leader:** [Khushi Soni], [khushisonig22@gmail.com], [PHONE]
 - **Members:** [Individual
 - **College / Incubator:** [IIT Patna]
