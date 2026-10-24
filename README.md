@@ -1,10 +1,10 @@
 # Digital Twin Proof-of-Concept – Happiest Health Challenge 2026
 
 ## Team Details
-- **Team name:** [TEAM NAME]
-- **Team leader:** [NAME], [EMAIL], [PHONE]
-- **Members:** [NAME 1], [NAME 2], [NAME 3]
-- **College / Incubator:** [COLLEGE OR INCUBATOR NAME]
+- **Team name:** [TEAm_Vitals]
+- **Team leader:** [Khushi Soni], [khushisonig22@gmail.com], [PHONE]
+- **Members:** [Individual
+- **College / Incubator:** [IIT Patna]
 
 ## Project Title
 **Digital Twin: Fusing Static EHR and Real-Time Wearable Streams to Predict Adverse Glucose Events**
